@@ -1,0 +1,231 @@
+{
+  "action": [
+    {
+      "id": 1,
+      "name": "Assassin’s Creed Valhalla",
+      "category": "Action",
+      "image": "https://m.media-amazon.com/images/I/81PYKLkWWLL.jpg",
+      "size": "100GB",
+      "developer": "Ubisoft Montreal",
+      "releaseDate": "2020-11-10",
+      "rating": 4.8,
+      "description": "Viking-era England action RPG"
+    },
+    {
+      "id": 2,
+      "name": "Grand Theft Auto V",
+      "category": "Action",
+      "image": "https://m.media-amazon.com/images/I/81htlTqEckL.jpg",
+      "size": "80GB",
+      "developer": "Rockstar North",
+      "releaseDate": "2013-09-17",
+      "rating": 4.7,
+      "description": "Experience the criminal underworld."
+    },
+    {
+      "id": 3,
+      "name": "Red Dead Redemption 2",
+      "category": "Action",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Zw3ba8igTlqTD-rCWWQgpjA1dFwTv0DV3w&s",
+      "size": "150GB",
+      "developer": "Rockstar Games",
+      "releaseDate": "2018-10-26",
+      "rating": 4.9,
+      "description": "Open-world action in the Wild West."
+    },
+    {
+      "id": 4,
+      "name": "The Witcher 3: Wild Hunt",
+      "category": "Action",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png",
+      "size": "50GB",
+      "developer": "CD Projekt Red",
+      "releaseDate": "2015-05-19",
+      "rating": 4.9,
+      "description": "Action-packed RPG with a deep story."
+    },
+    {
+      "id": 5,
+      "name": "Far Cry 5",
+      "category": "Action",
+      "image": "https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png",
+      "size": "40GB",
+      "developer": "Ubisoft Montreal",
+      "releaseDate": "2018-03-27",
+      "rating": 4.4,
+      "description": "A first-person shooter with open-world exploration."
+    },
+    {
+      "id": 6,
+      "name": "Tomb Raider",
+      "category": "Action",
+      "image": "https://m.media-amazon.com/images/I/818yA5mNQpL._AC_UF894,1000_QL80_.jpg",
+      "size": "15GB",
+      "developer": "Crystal Dynamics",
+      "releaseDate": "2013-03-05",
+      "rating": 4.6,
+      "description": "Action-adventure with puzzles and combat."
+    },
+    {
+      "id": 7,
+      "name": "Batman: Arkham Knight",
+      "category": "Action",
+      "image": "https://image.api.playstation.com/cdn/EP1018/CUSA00135_00/e1lbaSUnmBzv5cqMyM9DjbcrG0mpMrHi.png",
+      "size": "45GB",
+      "developer": "Rocksteady Studios",
+      "releaseDate": "2015-06-23",
+      "rating": 4.7,
+      "description": "Action-packed game in the Batman universe."
+    },
+    {
+      "id": 8,
+      "name": "Spider-Man (PS4)",
+      "category": "Action",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNBmfGPd12nQ46i3P3QGEsSlRl1Bs0TdkOQ&s",
+      "size": "30GB",
+      "developer": "Insomniac Games",
+      "releaseDate": "2018-09-07",
+      "rating": 4.8,
+      "description": "Swing through New York City as Spider-Man."
+    },
+    {
+      "id": 9,
+      "name": "Assassin's Creed Odyssey",
+      "category": "Action",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDlhZWRjZTEtMDllZS00ZDljLWEyZGUtZmU1MDkxODQ4NTRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "size": "80GB",
+      "developer": "Ubisoft Quebec",
+      "releaseDate": "2018-10-05",
+      "rating": 4.6,
+      "description": "Ancient Greece action RPG."
+    },
+    {
+      "id": 10,
+      "name": "Horizon Zero Dawn",
+      "category": "Action",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2716/16b33fa9a5c7285ba86a035b4a1c5f8eb430b407eae35ffd.png",
+      "size": "60GB",
+      "developer": "Guerrilla Games",
+      "releaseDate": "2017-02-28",
+      "rating": 4.8,
+      "description": "Open-world action set in a post-apocalyptic world."
+    }
+  ],
+  
+  
+  
+    "adventure": [
+      {
+        "id": 1,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "category": "Adventure",
+        "image": "https://m.media-amazon.com/images/I/81KGsbq8ekL.jpg",
+        "size": "15GB",
+        "developer": "Nintendo EPD",
+        "releaseDate": "2017-03-03",
+        "rating": 4.9,
+        "description": "Open-world adventure in Hyrule."
+      },
+      {
+        "id": 2,
+        "name": "Uncharted 4: A Thief's End",
+        "category": "Adventure",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTFmN2M0MGMtMTI5Ny00NzRlLWFlZGYtZDM0N2VmOTUwYTdmXkEyXkFqcGc@._V1_.jpg",
+        "size": "60GB",
+        "developer": "Naughty Dog",
+        "releaseDate": "2016-05-10",
+        "rating": 4.8,
+        "description": "Action-adventure with treasure hunting."
+      },
+      {
+        "id": 3,
+        "name": "Life is Strange",
+        "category": "Adventure",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Life_Is_Strange_cover_art.png",
+        "size": "15GB",
+        "developer": "Dontnod Entertainment",
+        "releaseDate": "2015-01-30",
+        "rating": 4.7,
+        "description": "Choice-driven narrative adventure with time manipulation."
+      },
+      {
+        "id": 4,
+        "name": "Shadow of the Colossus",
+        "category": "Adventure",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUuyV7LdlGWkUT144IfjjrY0s2GcLQgQ0vg&s",
+        "size": "20GB",
+        "developer": "Japan Studio",
+        "releaseDate": "2005-10-25",
+        "rating": 4.7,
+        "description": "Epic adventure with giant colossi."
+      },
+      {
+        "id": 5,
+        "name": "The Last of Us",
+        "category": "Adventure",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/aZKLRcjaZ8HL03ODxYMZDfaH.png",
+        "size": "30GB",
+        "developer": "Naughty Dog",
+        "releaseDate": "2013-06-14",
+        "rating": 4.9,
+        "description": "Post-apocalyptic survival adventure."
+      },
+      {
+        "id": 6,
+        "name": "Horizon Forbidden West",
+        "category": "Adventure",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9lUYcGLCGrEUn0yELBVUlrnxRIjdm3vJ2g&s",
+        "size": "80GB",
+        "developer": "Guerrilla Games",
+        "releaseDate": "2022-02-18",
+        "rating": 4.7,
+        "description": "Explore a vibrant post-apocalyptic world."
+      },
+      {
+        "id": 7,
+        "name": "What Remains of Edith Finch",
+        "category": "Adventure",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/79/What_Remains_of_Edith_Finch_cover_art.jpg",
+        "size": "10GB",
+        "developer": "Giant Sparrow",
+        "releaseDate": "2017-04-25",
+        "rating": 4.8,
+        "description": "Explore the history of a cursed family."
+      },
+      {
+        "id": 8,
+        "name": "A Plague Tale: Innocence",
+        "category": "Adventure",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbpYCHgoPjQI2cuFM99Qx-sIsfJ-M7kkQ1w&s",
+        "size": "50GB",
+        "developer": "Asobo Studio",
+        "releaseDate": "2019-05-14",
+        "rating": 4.6,
+        "description": "Escape the Inquisition and a rat plague in 14th-century France."
+      },
+      {
+        "id": 9,
+        "name": "Star Wars Jedi: Fallen Order",
+        "category": "Adventure",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1013/DKYIpVhskEQ4jbzr1PVxsO0Z.png",
+        "size": "60GB",
+        "developer": "Respawn Entertainment",
+        "releaseDate": "2019-11-15",
+        "rating": 4.7,
+        "description": "A galaxy-spanning adventure set after the fall of the Jedi Order."
+      },
+      {
+        "id": 10,
+        "name": "Ghost of Tsushima",
+        "category": "Adventure",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg",
+        "size": "50GB",
+        "developer": "Sucker Punch Productions",
+        "releaseDate": "2020-07-17",
+        "rating": 4.8,
+        "description": "Open-world samurai adventure in feudal Japan."
+      }
+    ]
+  }
+  
+

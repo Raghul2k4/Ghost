@@ -1,5 +1,4 @@
 import { Routes, Route } from "react-router-dom";
-import NavBar from "./components/MainComponents/NavBar";
 import Main from "./main";  // Corrected import
 import AboutUs from "./pages/AboutUs";
 import Categories from "./pages/showTemp";
